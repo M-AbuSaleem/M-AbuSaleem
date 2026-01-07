@@ -19,7 +19,7 @@ Aspiring **Full Stack Developer** passionate about building responsive, user-fri
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Technologies
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -60,9 +60,10 @@ Web development project focused on building relationships with partners and main
 
 ## 📊 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🤝 Soft Skills
 
