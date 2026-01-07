@@ -60,10 +60,10 @@ Web development project focused on building relationships with partners and main
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=radical&langs_count=8"/>
+</p>
 
 ## 🤝 Soft Skills
 
