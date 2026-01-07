@@ -58,10 +58,7 @@ Web development project focused on building relationships with partners and main
 
 *Check out my pinned repositories below for more projects!*
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=tokyonight" width="48%" />
 ## 🤝 Soft Skills
 
 - 🧠 Critical Thinking
