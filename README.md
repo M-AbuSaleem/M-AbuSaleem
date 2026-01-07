@@ -60,11 +60,11 @@ Web development project focused on building relationships with partners and main
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=radical&langs_count=8"/>
-</p>
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-AbuSaleem&theme=tokyonight&hide_border=true)
 ## 🤝 Soft Skills
 
 - 🧠 Critical Thinking
