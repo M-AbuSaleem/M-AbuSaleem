@@ -60,11 +60,8 @@ Web development project focused on building relationships with partners and main
 
 ## 📊 GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-AbuSaleem&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=tokyonight" width="48%" />
 ## 🤝 Soft Skills
 
 - 🧠 Critical Thinking
