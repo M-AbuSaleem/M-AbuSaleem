@@ -60,9 +60,9 @@ Web development project focused on building relationships with partners and main
 
 ## 📊 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-AbuSaleem&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AbuSaleem&layout=compact&theme=radical)
 
 ## 🤝 Soft Skills
 
