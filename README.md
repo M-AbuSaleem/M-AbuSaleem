@@ -83,4 +83,3 @@ A restaurant website that allows visitors to browse the menu, read customer revi
 
 💡 *"Always eager to learn new technologies and contribute to innovative projects"*
 
-![Profile Views]([https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet](https://github.com/M-AbuSaleem))
