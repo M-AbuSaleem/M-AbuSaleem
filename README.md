@@ -53,34 +53,16 @@ Aspiring **Full Stack Developer** passionate about building responsive, user-fri
 
 ## 🌟 Featured Projects
 
-## Technical Stack
+### 🔔 Balgh Platform (2025)
+Web development project focused on building relationships with partners and maintaining brand consistency across marketing channels.
 
-### Mayar Restaurant
-**Frontend:**
-- HTML5, CSS3, JavaScript
-- Bootstrap 5
-- Responsive Design
-- CSS Animations
+### 🔔 Travel Project (2025)
+A travel agency website showcasing diverse tourist packages to global destinations with prices, offering an online booking form for trips and a photo gallery of tourist destinations. .
 
-**Backend:**
-- ASP.NET Web API
-- RESTful Architecture
-- JSON Data Exchange
-- CRUD Operations
+### 🔔 LORDECS Restront (2025)
+A restaurant website that allows visitors to browse the menu, read customer reviews, meet the chefs, and easily book a table through an online form. .
 
-### Mayar Travel
-**Frontend:**
-- HTML5, CSS3, JavaScript
-- Bootstrap 5
-- Font Awesome Icons
-- Advanced Animations
 
-**Backend:**
-- ASP.NET MVC
-- Model-View-Controller Pattern
-- Razor Views
-- Entity Framework (Optional)
-- Server-side Validation
 *Check out my pinned repositories below for more projects!*
 
 
