@@ -53,9 +53,34 @@ Aspiring **Full Stack Developer** passionate about building responsive, user-fri
 
 ## 🌟 Featured Projects
 
-### 🔔 Balgh Platform (2025)
-Web development project focused on building relationships with partners and maintaining brand consistency across marketing channels.
+## Technical Stack
 
+### Mayar Restaurant
+**Frontend:**
+- HTML5, CSS3, JavaScript
+- Bootstrap 5
+- Responsive Design
+- CSS Animations
+
+**Backend:**
+- ASP.NET Web API
+- RESTful Architecture
+- JSON Data Exchange
+- CRUD Operations
+
+### Mayar Travel
+**Frontend:**
+- HTML5, CSS3, JavaScript
+- Bootstrap 5
+- Font Awesome Icons
+- Advanced Animations
+
+**Backend:**
+- ASP.NET MVC
+- Model-View-Controller Pattern
+- Razor Views
+- Entity Framework (Optional)
+- Server-side Validation
 *Check out my pinned repositories below for more projects!*
 
 
