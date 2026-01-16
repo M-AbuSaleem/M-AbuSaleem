@@ -21,7 +21,7 @@ Aspiring **Full Stack Developer** passionate about building responsive, user-fri
 ### Frameworks & Technologies
 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Web_Api](https://img.shields.io/badge/ASP.NETh_Web_Api-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET WEB API](https://img.shields.io/badge/ASP.NET_Web_Api-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
