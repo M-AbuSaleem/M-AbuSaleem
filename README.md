@@ -60,7 +60,7 @@ Web development project focused on building relationships with partners and main
 ### 🔔 Travel Project (2025)
 A travel agency website showcasing diverse tourist packages to global destinations with prices, offering an online booking form for trips and a photo gallery of tourist destinations. .
 
-### 🔔 LORDECS Restront (2025)
+### 🔔 LORDECS Restaurant (2025)
 A restaurant website that allows visitors to browse the menu, read customer reviews, meet the chefs, and easily book a table through an online form. .
 
 
