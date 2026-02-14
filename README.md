@@ -32,7 +32,7 @@ Aspiring **Full Stack Developer** passionate about building responsive, user-fri
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 **Core Competencies:** OOP • Database Management • CRUD Operations • Entity Framework Core • LINQ • ADO.NET
