@@ -41,7 +41,8 @@ Aspiring **Full Stack Developer** passionate about building responsive, user-fri
 - **Bachelor of Computer Science** - Balqa Applied University, Jordan (2025)
 - **ASP.NET Development** - Dare Academy (Jun 2025 - Dec 2025)
 - **Databases in MySQL** - Coursera (Feb 2024 - Apr 2024)
-- **WordPress Development** - DOT Jordan (Jul 2023 - Sep 2023)
+- **WordPress Development** - DOT Jordan (Sep 2024 - Nov 2024)
+- **AWS Cloud** - Amazon (Jul 2023 - Sep 2023)
 
 ## 💼 Professional Experience
 
